@@ -24,6 +24,7 @@ A simple Flappy Bird game built using Python.
    cd flappy-bird
    ```
 3. Run the application:
+    ```bash
     python Flappy-bird.py
      ```
 
