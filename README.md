@@ -1,6 +1,6 @@
 # Flappy Bird Clone 🎮
 
-A simple Flappy Bird game built using [your chosen technology/language].
+A simple Flappy Bird game built using Python.
 
 ## 🐧 Features
 - **Smooth Gameplay:** Tap or click to make the bird flap its wings.
@@ -24,16 +24,13 @@ A simple Flappy Bird game built using [your chosen technology/language].
    cd flappy-bird
    ```
 3. Run the application:
-   - If it's a web app: Open `index.html` in a browser.
-   - If it's a Python project:
-     ```bash
-     python main.py
+    python Flappy-bird.py
      ```
 
 ## 🛠️ Technologies Used
-- **Language/Framework:** (e.g., JavaScript, Python, etc.)
-- **Libraries:** (e.g., Pygame, Phaser, etc.)
-- **Tools:** (e.g., Visual Studio Code, Git, etc.)
+- **Language/Framework:** (Python)
+- **Libraries:** (Pygame)
+- **Tools:** (Visual Studio Code, Git)
 
 ## 🖼️ Screenshots
 ![Game Screenshot](link-to-screenshot.png)  
@@ -54,4 +51,4 @@ Contributions are welcome! Feel free to:
 This project is licensed under the [MIT License](LICENSE).
 
 ## 📩 Contact
-For questions or feedback, reach out via [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, reach out via batrapulkit1103@gmail.com.
