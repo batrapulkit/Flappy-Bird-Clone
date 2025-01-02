@@ -37,7 +37,7 @@ A simple Flappy Bird game built using Python.
 https://azureloyalistcollege-my.sharepoint.com/:v:/g/personal/pulkitbatra_loyalistcollege_com/EY-NJu8lsTNPjh9wfNYC4ZIBN_bCXAK29GIba0UyT3NB1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Fax6zj
 
 ## 🌟 Future Enhancements
-- Add multiple levels or increasing difficulty.
+- Add multiple levels of increasing difficulty.
 - Implement power-ups and bonuses.
 - Add a leaderboard for players to compete globally.
 
